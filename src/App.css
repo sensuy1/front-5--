@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.navbar {
+  padding-left: 0;
+}
+
+.navbar a.active {
+  color: aqua;
+}
+
+.navbar a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.navbar li {
+  list-style: none;
+}  
